@@ -10,7 +10,6 @@ This means even small things take up a lot of space'''
 print(id(object))
 
 print((62554564).__sizeof__())#find the size.
-print((624).__sizeof__())#find the size.
 '''Variables
 ->variable are references to an object
 ->Assigning from a variable does not copy an object.
