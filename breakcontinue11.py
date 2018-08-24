@@ -8,3 +8,6 @@ for n in range(10):
         print("even",n)
         continue
     print("old",n)
+
+for i in range(10):
+    print(i,"\"free\"")
